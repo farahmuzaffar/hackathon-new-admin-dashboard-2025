@@ -1,4 +1,3 @@
-
 "use client";
 
 import { LayoutDashboard } from "lucide-react";
@@ -34,4 +33,5 @@ export function AdminHeader() {
     </header>
   );
 }
+
 
